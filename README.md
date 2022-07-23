@@ -24,6 +24,14 @@ John Sanchez, Senior Systems Engineer
 Victoria Gray, Systems Engineer
 Anup Bannadi, Systems Engineer
 Praveen Chandrashekar, Systems Engineer
+
+# Dependancies
+Topdesk Service for customer request and tracking
+
+ITAM required to review license agreements and vendor approval
+
+InfoSec required for security review of software
+
 # Indicators
 Availability - The service needs to be available during normal working hours 8am - 5pm EST M-F excluding holidays.
 
